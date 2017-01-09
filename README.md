@@ -1,3 +1,4 @@
+This edited readme
 # Chapter 1
 ## Creating our first component in Angular 2
 
